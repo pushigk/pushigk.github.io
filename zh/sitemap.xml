@@ -3,8 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.pushigk.com/interview/</loc>
+    <lastmod>2021-02-28T16:50:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.pushigk.com/tags/interview/</loc>
+    <lastmod>2021-02-28T16:50:04+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.pushigk.com/tags/</loc>
-    <lastmod>2021-02-28T16:47:50+08:00</lastmod>
+    <lastmod>2021-02-28T16:50:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.pushigk.com/interview/%E4%BB%8E%E5%95%86%E5%9C%BA%E5%8A%9D%E6%9E%B6%E5%8F%97%E4%BC%A4%E7%9C%8B%E7%A4%BE%E4%BC%9A%E8%BF%90%E4%BD%9C%E4%B8%8E%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2021-02-28T16:50:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.pushigk.com/</loc>
+    <lastmod>2021-02-28T16:50:04+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.pushigk.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://www.pushigk.com/"
+                />
   </url>
   
   <url>
@@ -23,21 +53,6 @@
   </url>
   
   <url>
-    <loc>http://www.pushigk.com/</loc>
-    <lastmod>2021-02-28T16:47:50+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.pushigk.com/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.pushigk.com/"
-                />
-  </url>
-  
-  <url>
     <loc>http://www.pushigk.com/recruit/</loc>
     <lastmod>2021-02-26T07:18:05+08:00</lastmod>
   </url>
@@ -45,21 +60,6 @@
   <url>
     <loc>http://www.pushigk.com/recruit/%E6%96%B0%E6%B2%82%E5%B8%82%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91%E5%B1%802021%E5%B9%B4%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%8A%B3%E5%8A%A1%E6%B4%BE%E9%81%A3%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98/</loc>
     <lastmod>2021-02-26T07:18:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.pushigk.com/interview/</loc>
-    <lastmod>2021-02-28T16:47:50+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.pushigk.com/tags/interview/</loc>
-    <lastmod>2021-02-28T16:47:50+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.pushigk.com/interview/%E4%BB%8E%E5%95%86%E5%9C%BA%E5%8A%9D%E6%9E%B6%E5%8F%97%E4%BC%A4%E7%9C%8B%E7%A4%BE%E4%BC%9A%E8%BF%90%E4%BD%9C%E4%B8%8E%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2021-02-28T16:47:50+08:00</lastmod>
   </url>
   
   <url>
