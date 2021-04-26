@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">璞石公考</title>
     <subtitle type="html">璞石公考 真正的面试指导</subtitle>
-    <updated>2021-04-25T14:38:39&#43;08:00</updated>
+    <updated>2021-04-26T11:50:35&#43;08:00</updated>
     <id>http://www.pushigk.com/</id>
     <link rel="alternate" type="text/html" href="http://www.pushigk.com/" />
     <link rel="self" type="application/atom&#43;xml" href="http://www.pushigk.com/atom.xml" />
@@ -14,6 +14,56 @@
             </author>
     <rights>璞石公考面试内容由新沂市璞石教育咨询有限公司原创</rights>
     <generator uri="https://gohugo.io/" version="0.81.0">Hugo</generator>
+        <entry>
+            <title type="text">璞石公考提供付费自习室服务</title>
+            <link rel="alternate" type="text/html" href="http://www.pushigk.com/training/%E7%92%9E%E7%9F%B3%E5%85%AC%E8%80%83%E6%8F%90%E4%BE%9B%E4%BB%98%E8%B4%B9%E8%87%AA%E4%B9%A0%E5%AE%A4%E6%9C%8D%E5%8A%A1/" />
+            <id>http://www.pushigk.com/training/%E7%92%9E%E7%9F%B3%E5%85%AC%E8%80%83%E6%8F%90%E4%BE%9B%E4%BB%98%E8%B4%B9%E8%87%AA%E4%B9%A0%E5%AE%A4%E6%9C%8D%E5%8A%A1/</id>
+            <updated>2021-04-26T11:50:02&#43;08:00</updated>
+            <published>2021-04-26T06:00:00&#43;08:00</published>
+            <author>
+                    <name>璞石公考原创</name>
+                    <uri>https://www.pushigk.com</uri>
+                    </author>
+            <rights>璞石公考面试内容由新沂市璞石教育咨询有限公司原创</rights><summary type="html">璞石公考提供付费自习室服务，欢迎您的到来！ 收费标准：30元/天。 开放时间：8:30-……</summary>
+            
+                <content type="html">&lt;p&gt;璞石公考提供&lt;strong&gt;付费自习室&lt;/strong&gt;服务，欢迎您的到来！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;收费标准&lt;/strong&gt;：30元/天。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;开放时间&lt;/strong&gt;：8:30--22:00。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;电话/微信&lt;/strong&gt;：18952168903 胡老师。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;地址&lt;/strong&gt;：新沂市市府东路惠前街爱度书院三楼。&lt;/p&gt;
+&lt;div style=&#34;text-align: right&#34;&gt;2021年4月26日&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/div&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="http://www.pushigk.com/training/" term="training" label="training" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="http://www.pushigk.com/tags/%E4%BB%98%E8%B4%B9%E8%87%AA%E4%B9%A0%E5%AE%A4%E6%9C%8D%E5%8A%A1/" term="付费自习室服务" label="付费自习室服务" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">新沂市行政审批局“12345”政府热线2021年公开招聘工作人员笔试成绩</title>
             <link rel="alternate" type="text/html" href="http://www.pushigk.com/recruit/%E6%96%B0%E6%B2%82%E5%B8%82%E8%A1%8C%E6%94%BF%E5%AE%A1%E6%89%B9%E5%B1%8012345%E6%94%BF%E5%BA%9C%E7%83%AD%E7%BA%BF2021%E5%B9%B4%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%AC%94%E8%AF%95%E6%88%90%E7%BB%A9/" />
