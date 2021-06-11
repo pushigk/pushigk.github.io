@@ -4,27 +4,27 @@
   
   <url>
     <loc>http://www.pushigk.com/recruit/</loc>
-    <lastmod>2021-04-27T21:17:31+08:00</lastmod>
+    <lastmod>2021-06-11T21:57:20+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.pushigk.com/tags/</loc>
-    <lastmod>2021-04-27T21:17:31+08:00</lastmod>
+    <lastmod>2021-06-11T21:57:20+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.pushigk.com/tags/%E6%96%B0%E6%B2%82%E5%B8%822021%E5%B9%B4%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E6%95%99%E5%B8%88/</loc>
-    <lastmod>2021-04-27T21:17:31+08:00</lastmod>
+    <loc>http://www.pushigk.com/tags/%E6%96%B0%E6%B2%82%E5%B8%822021%E5%B9%B4%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%8D%AB%E7%94%9F%E4%B8%93%E4%B8%9A%E6%8A%80%E6%9C%AF%E4%BA%BA%E5%91%98/</loc>
+    <lastmod>2021-06-11T21:57:20+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.pushigk.com/recruit/%E6%96%B0%E6%B2%82%E5%B8%822021%E5%B9%B4%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E6%95%99%E5%B8%88/</loc>
-    <lastmod>2021-04-27T21:17:31+08:00</lastmod>
+    <loc>http://www.pushigk.com/recruit/%E6%96%B0%E6%B2%82%E5%B8%822021%E5%B9%B4%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%8D%AB%E7%94%9F%E4%B8%93%E4%B8%9A%E6%8A%80%E6%9C%AF%E4%BA%BA%E5%91%98/</loc>
+    <lastmod>2021-06-11T21:57:20+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.pushigk.com/</loc>
-    <lastmod>2021-04-27T21:17:31+08:00</lastmod>
+    <lastmod>2021-06-11T21:57:20+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -35,6 +35,16 @@
                 hreflang="zh"
                 href="http://www.pushigk.com/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://www.pushigk.com/tags/%E6%96%B0%E6%B2%82%E5%B8%822021%E5%B9%B4%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E6%95%99%E5%B8%88/</loc>
+    <lastmod>2021-04-27T21:17:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.pushigk.com/recruit/%E6%96%B0%E6%B2%82%E5%B8%822021%E5%B9%B4%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E6%95%99%E5%B8%88/</loc>
+    <lastmod>2021-04-27T21:17:31+08:00</lastmod>
   </url>
   
   <url>
